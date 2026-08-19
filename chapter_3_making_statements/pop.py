@@ -3,6 +3,7 @@ crate = ['egg', 'fig', 'grape']
 print("\nBasket list:", basket)
 print("Basket elements:", len(basket))
 
+
 # Appending an element to a list
 basket.append('damson')
 print("\nAppended:", basket)
